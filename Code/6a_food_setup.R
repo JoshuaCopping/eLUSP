@@ -1,5 +1,5 @@
-# 7a FOOD SETUP ################################
-source("./code/1_setup.R")
+# 6a FOOD SETUP ################################
+source("./Code/0_setup.R")
 
 # Load data
 load(here("data", "food_params_2022.RData"))

@@ -1,5 +1,5 @@
-# 11 FIGURES & TABLES FOR PAPER ######################
-source("./code/1_setup.R")
+# 9 FIGURES & TABLES FOR PAPER ######################
+source("./Code/0_setup.R")
 
 
 # FIGURE 1 - LAND & ENERGY ---------------------------------------------

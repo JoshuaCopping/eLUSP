@@ -1,5 +1,5 @@
-# 3c UPDATE COUNTRY PROPORTIONS ######################
-source("./code/1_setup.R")
+# 2c UPDATE COUNTRY PROPORTIONS ######################
+source("./Code/0_setup.R")
 
 # UPDATE PROPORTION OF WIND/SOLAR PER COUNTRY -------------------------
 # Dataframe of scenario abbreviations for loop

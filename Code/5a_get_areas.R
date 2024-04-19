@@ -1,5 +1,5 @@
-# 6a GET AREAS ################################
-source("./code/1_setup.R")
+# 5a GET AREAS ################################
+source("./Code/0_setup.R")
 
 # Cross-tabulate data to get area and associated values - running in loops per country and ambition due to intensity and merging later
 

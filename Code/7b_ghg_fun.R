@@ -1,5 +1,5 @@
-# 8b GHG FUNCTION ######################
-source("./code/1_setup.R")
+# 7b GHG FUNCTION ######################
+source("./Code/0_setup.R")
 
 # LOAD & TIDY SCENARIO AREAS ---------------------------------------------
 # Mapped areas

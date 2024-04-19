@@ -1,5 +1,5 @@
-# 6d JOIN ALL SCENARIOS WITH MAX WIND SCENARIO ######################
-source("./code/1_setup.R")
+# 5d JOIN ALL SCENARIOS WITH MAX WIND SCENARIO ######################
+source("./Code/0_setup.R")
 
 # Load
 # Max wind data

@@ -1,5 +1,5 @@
-# 5 UPDATE LCM WITH RENEWABLES ################################
-source("./code/1_setup.R")
+# 4a UPDATE LCM WITH RENEWABLES ################################
+source("./Code/0_setup.R")
 
 
 # LOAD DATA OUTSIDE FUNCTION ---------------------------------------------

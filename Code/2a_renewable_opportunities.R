@@ -1,5 +1,5 @@
-# 3a RENEWABLES OPPORTUNITY LAYERS ######################
-source("./code/1_setup.R")
+# 2a RENEWABLES OPPORTUNITY LAYERS ######################
+source("./Code/0_setup.R")
 
 # WIND & SOLAR OPPORTUNITIES FUNCTION  -------------------------
 opportunities_function <- function(country_abbr, national_park = "NO"){

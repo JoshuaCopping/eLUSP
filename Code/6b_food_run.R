@@ -1,5 +1,5 @@
-# 7b FOOD PRODUDCITON MODEL - RUN ################################
-source("./code/1_setup.R")
+# 6b FOOD PRODUDCITON MODEL - RUN ################################
+source("./Code/0_setup.R")
 
 
 ## LOAD DATA ---------------------------------------------

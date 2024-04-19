@@ -1,5 +1,5 @@
-# 5b UPDATE LCM FOR MAX WIND SCENARIO ######################
-source("./code/1_setup.R")
+#4b UPDATE LCM FOR MAX WIND SCENARIO ######################
+source("./Code/0_setup.R")
 
 
 # LOAD DATA OUTSIDE FUNCTION ---------------------------------------------

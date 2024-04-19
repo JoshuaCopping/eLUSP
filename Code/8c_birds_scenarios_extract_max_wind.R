@@ -1,5 +1,5 @@
-# 9c BIRDS SCENARIOS EXTRACT MAX WIND ######################
-source("./code/1_setup.R")
+# 8c BIRDS SCENARIOS EXTRACT MAX WIND ######################
+source("./Code/0_setup.R")
 
 
 # READ BASELINE SPATIAL DATA  ---------------------------------------------

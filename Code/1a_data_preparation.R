@@ -1,5 +1,5 @@
 # 1a DATA PREPARATION ######################
-source("./code/0_setup.R")
+source("./Code/0_setup.R")
 
 # LOAD RASTERS -------------------------- 
 # Land cover - using scenario d 

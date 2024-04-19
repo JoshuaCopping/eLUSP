@@ -1,5 +1,5 @@
 # 1b GEESE SENSITIVITY DATA ######################
-source("./code/0_setup.R")
+source("./Code/0_setup.R")
 
 # LOAD DATA -------------------------- 
 # Spa features sheet

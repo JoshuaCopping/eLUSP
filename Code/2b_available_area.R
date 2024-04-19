@@ -1,5 +1,5 @@
-# 3b CALCULATE AVAILABLE AREA FOR WIND AND SOLAR FARMS ######################
-source("./code/1_setup.R")
+# 2b CALCULATE AVAILABLE AREA FOR WIND AND SOLAR FARMS ######################
+source("./Code/0_setup.R")
 
 # LAND COVER TYPE AREA CALCULATION -------------------------
 ## CREATE/SET FUNCTION ----

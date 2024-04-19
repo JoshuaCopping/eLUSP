@@ -1,5 +1,5 @@
-# 9a BIRDS SCENARIOS EXTRACT GBR ######################
-source("./code/1_setup.R")
+# 8a BIRDS SCENARIOS EXTRACT GBR ######################
+source("./Code/0_setup.R")
 
 
 # READ BASELINE SPATIAL DATA  ---------------------------------------------

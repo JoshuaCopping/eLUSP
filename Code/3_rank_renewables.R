@@ -1,5 +1,5 @@
-# 4 RANK AREAS FOR RENEWABLES ################################
-source("./code/1_setup.R")
+# 3 RANK AREAS FOR RENEWABLES ################################
+source("./Code/0_setup.R")
 
 
 # SET RANK RENEWABLES FUNCTION ---------------------------------------------

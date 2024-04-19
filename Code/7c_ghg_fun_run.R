@@ -1,5 +1,5 @@
-# 8c GHG FUN RUN ######################
-source("./code/1_setup.R")
+# 7c GHG FUN RUN ######################
+source("./Code/0_setup.R")
 
 # LOAD DATA ---------------------------------------------
 # GHG function and params

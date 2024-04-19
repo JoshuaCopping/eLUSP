@@ -1,5 +1,5 @@
-# 9d BIRD MODEL RUN MAX WIND ######################
-source("./code/1_setup.R")
+# 8d BIRD MODEL RUN MAX WIND ######################
+source("./Code/0_setup.R")
 
 
 # SCENARIO/AMBITION LEVELS ---------------------------------------------

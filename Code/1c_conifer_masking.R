@@ -1,5 +1,5 @@
-# 2c MASKING CONIFER DATA ######################
-source("./code/1_setup.R")
+# 1c MASKING CONIFER DATA ######################
+source("./Code/0_setup.R")
 
 ### NORTHERN IRELAND -------------------------
 ## LOAD DATA

@@ -1,5 +1,5 @@
-# 9b BIRDS SCENARIOS EXTRACT NIR ######################
-source("./code/1_setup.R")
+# 8b BIRDS SCENARIOS EXTRACT NIR ######################
+source("./Code/0_setup.R")
 
 
 # READ BASELINE SPATIAL DATA  ---------------------------------------------

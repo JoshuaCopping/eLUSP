@@ -1,5 +1,5 @@
-# 6b MERGE GET AREAS DATA ################################
-source("./code/1_setup.R")
+# 5b MERGE GET AREAS DATA ################################
+source("./Code/0_setup.R")
 
 # Merge get areas data into single file
 

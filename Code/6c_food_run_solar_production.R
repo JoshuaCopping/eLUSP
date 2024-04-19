@@ -1,5 +1,5 @@
-# 7C FOOD PRODUCTION MODEL WITH SOLAR PRODUCTION - RUN ################################
-source("./code/1_setup.R")
+# 6c FOOD PRODUCTION MODEL WITH SOLAR PRODUCTION - RUN ################################
+source("./Code/0_setup.R")
 
 ## LOAD DATA ---------------------------------------------
 # Load food function and data

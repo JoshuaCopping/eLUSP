@@ -1,5 +1,5 @@
-# 8a GHG PARAMS EDIT ######################
-source("./code/1_setup.R")
+# 7a GHG PARAMS EDIT ######################
+source("./Code/0_setup.R")
 
 
 # UPDATE GHG LUC  ---------------------------------------------

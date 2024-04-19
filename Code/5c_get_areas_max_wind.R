@@ -1,5 +1,5 @@
-# 6c GET AREAS MAX WIND ######################
-source("./code/1_setup.R")
+# 5c GET AREAS MAX WIND ######################
+source("./Code/0_setup.R")
 
 
 # LOAD SCENARIOS DATA AND SETUP ---------------------------------------------

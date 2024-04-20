@@ -4,4 +4,4 @@
 mitigate climate change and nature loss but require a systems approach*. Code located here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8269105.svg)](https://doi.org/10.5281/zenodo.8269105)
 
 
-+ Email (joshua.copping@rspb.org.uk) for queries and data
++ Email joshua.copping@rspb.org.uk for queries and data

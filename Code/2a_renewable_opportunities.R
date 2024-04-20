@@ -12,7 +12,7 @@ opportunities_function <- function(country_abbr, national_park = "NO"){
   r_solar <- raster(here("rasters", "opportunity masking", glue("r_solar2_{country_abbr}.tif"))) # solar irradiance 
   r_slope <- raster(here("rasters", "opportunity masking", glue("r_slope_{country_abbr}.tif"))) # slope %
   r_aspect <- raster(here("rasters", "opportunity masking", glue("r_aspect_{country_abbr}.tif"))) # aspect in degrees 
-  r_woodop <- raster(here("rasters", "opportunity masking", glue("r_woodop_conifers_{country_abbr}.tif"))) # updated TBL woodop with conifers
+  r_woodop <- raster(here("rasters", "opportunity masking", glue("r_woodop_conifers_{country_abbr}.tif"))) # updated woodop with conifers - contains buffers for urban/built land and infrastructure (roads, rail etc)
   r_wind_sensitivity <- raster(here("rasters", "opportunity masking", glue("r_wind_sensitivity_{country_abbr}.tif"))) # sensitive species - wind
   r_solar_sensitivity <- raster(here("rasters", "opportunity masking", glue("r_solar_sensitivity_{country_abbr}.tif"))) # sensitive species - solar
   r_airport <- raster(here("rasters", "opportunity masking", glue("r_airport_{country_abbr}.tif"))) # buffered airports 
